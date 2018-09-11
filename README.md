@@ -1,1 +1,1 @@
-# database-connection-in-php-using-PDO-
+# Database Connection in PHP Using PDO with MySQL Driver.
